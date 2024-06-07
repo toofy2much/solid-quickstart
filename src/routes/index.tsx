@@ -11,8 +11,7 @@ export default function Home() {
       <p>
         Visit us on instagram!{" "}
         <a href="https://www.instagram.com/alltrueisms/" target="_blank">
-          https://www.instagram.com/alltrueisms?
-          igsh+OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
+          https://www.instagram.com/alltrueisms/
         </a>{" "}
         contact: alltrueisms@gmail.com
       </p>

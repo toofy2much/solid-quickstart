@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Alltrueisms</Title>
-      <h1>Tuesday Kay</h1> 
+      <h1>Tuesday Kay | Alltrueisms </h1> 
             <h2>Pardon our appearance ... while we freshen up</h2> 
       <Counter />
       <p>

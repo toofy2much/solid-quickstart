@@ -4,15 +4,17 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>Hello World</Title>
-      <h1>Hello world!</h1>
+      <Title>Alltrueisms</Title>
+      <h1>Tuesday Kay</h1> 
+            <h2>Pardon our appearance ... while we freshen up</h2> 
       <Counter />
       <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+        Visit us on instagram!{" "}
+        <a href="https://www.instagram.com/alltrueisms/" target="_blank">
+          https://www.instagram.com/alltrueisms?
+          igsh+OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
         </a>{" "}
-        to learn how to build SolidStart apps.
+        contact: alltrueisms@gmail.com
       </p>
     </main>
   );
